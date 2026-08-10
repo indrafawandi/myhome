@@ -98,15 +98,6 @@ Multipolar Technology / Indonet      System / Cloud Engineer            2018 –
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=indrafawandi&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=indrafawandi&theme=default" alt="GitHub Streak" height="165"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-fawandi-2a7a8b174)
